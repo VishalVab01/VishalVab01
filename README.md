@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack projects with a strong focus on backend<br>Designing and developing REST APIs<br>Implementing authentication systems (JWT-based auth)<br>Working with SQL databases and optimizing queries<br>👯 I’m looking to collaborate on<br>Full-stack or backend-heavy projects<br>API development and scalable backend systems<br>Open-source projects involving Node.js / databases<br>🤝 I’m looking for help with<br>System design and scalable architecture<br>Advanced backend concepts (caching, load balancing)<br>Writing production-level secure APIs<br>🌱 I’m currently learning<br>Advanced backend development (Node.js ecosystem)<br>Database design & query optimization (SQL)<br>Authentication & security best practices<br>Deployment (Docker / cloud basics)<br>💬 Ask me about<br>REST API development<br>JWT authentication<br>SQL and database design<br>Backend logic and debugging
+🔭 I’m currently working on<br>Full-stack projects with a strong focus on backend<br>Designing and developing REST APIs<br>Implementing authentication systems (JWT-based auth)<br>Working with SQL databases and optimizing queries<br>👯 I’m looking to collaborate on<br>Full-stack or backend-heavy projects<br>API development and scalable backend systems<br>Open-source projects involving Node.js / databases<br>
 
 
 ## 🌐 Socials:
