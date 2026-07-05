@@ -70,35 +70,16 @@ I build full-stack products with clean backend architecture, authentication syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishalVab01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalVab01&theme=github_dark" alt="Vishal's GitHub profile details" width="100%" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=VishalVab01&theme=dark&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalVab01&theme=github_dark" alt="Vishal's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalVab01&theme=github_dark" alt="Vishal's top languages" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalVab01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
----
-
-## 🧩 3D Contribution Graph
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishalVab01&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://streak-stats.demolab.com?user=VishalVab01&theme=dark&hide_border=false" alt="Vishal's GitHub streak" />
 
 </div>
 
