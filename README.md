@@ -109,3 +109,11 @@ I build full-stack products with clean backend architecture, authentication syst
 [![](https://visitcount.itsvg.in/api?id=VishalVab01\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="./assets/holopin-badges.png" alt="Holopin badges" width="100%" />
+
+</div>
